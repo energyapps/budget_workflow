@@ -15,7 +15,7 @@ Our goal is to develop a workflow that would allow us to:
 		- This is a very rough cannibalization of the DOM elements in energy.gov/maps element.
 		- Eventually we may be able to auto merge the JS, DOM, CSS into this using jekyll to create static views of our projects in development.
 	* index.html
-		- Working index that combines all of the following markup, js, and css files. Find it at [](energyapps.github.com/budget_production)
+		- Working index that combines all of the following markup, js, and css files. Find it at [energyapps.github.com/budget_production](energyapps.github.com/budget_production)
 	* markup.html
 		- Markup that would be pasted in the maps content type, i.e. anything that goes within the "map" frame.
 2. JS
